@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>tc-im</title>
+  </head>
+  <body>
+    <div id="app">
+      <th-im></th-im>
+    </div>
+    <script src="./node_modules/vue/dist/vue.js"></script>
+    <script src="/dist/th-im.js"></script>
+  </body>
+</html>
+<script>
+new Vue({
+  el: '#app',
+  data() {
+    return {
+      color: 'red',
+      msg: 'hello world!',
+      lightSwitch: false
+    }
+  }
+})
+</script>
