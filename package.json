@@ -1,6 +1,21 @@
 {
-  "name": "banana-lima-november-aemeh",
-  "version": "0.0.1-security.0",
-  "description": "security holding package",
-  "repository": "npm/security-holder"
+	"name": "zkg1-utils",
+	"version": "1.0.0",
+	"description": "",
+	"main": "./dist/index.js",
+	"scripts": {
+		"build": " vite build --mode production",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"utils",
+		"zkg-utils",
+		"k-utils",
+		"deepClone"
+	],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"vite": "^4.1.4"
+	}
 }
