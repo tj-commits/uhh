@@ -1,18 +1,5 @@
-# tc-im
+# Security holding package
 
-> A Vue.js project
+This package contained malicious code and was removed from the registry by the npm security team. A placeholder was published to ensure users are not affected in the future.
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Please refer to www.npmjs.com/advisories?search=banana-lima-november-aemeh for more information.
